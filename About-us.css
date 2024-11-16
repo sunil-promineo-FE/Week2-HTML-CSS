@@ -1,0 +1,25 @@
+body {
+    /*background: rgb(128, 163, 226);*/
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+  } 
+
+table, td, th {  
+    border: 1px solid #110f0f;
+    text-align: left;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 36%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+
+#about-me{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left
+  }

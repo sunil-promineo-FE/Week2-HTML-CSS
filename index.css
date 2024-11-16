@@ -1,0 +1,33 @@
+body {
+    /*background: rgb(128, 163, 226);*/
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+  } 
+
+h1{
+    color:purple;
+}
+
+.header{
+    height:410px;
+  }
+
+#about-me{
+    text-align:left
+}
+
+.title{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(102, 13, 13);
+    letter-spacing: 2px; 
+} 
+
+ul.a {
+    list-style-type: circle;
+}
+  
+ul.b {
+    list-style-type: square;
+}
+  
